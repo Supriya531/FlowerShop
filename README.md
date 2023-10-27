@@ -2,4 +2,4 @@
 # FlowerShop
 This is my first frontend project that I am creating.
 <br>
-Author--Supriya Challa
+Author--Supriya Challa(Student)s
